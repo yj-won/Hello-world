@@ -1,2 +1,9 @@
 // clone repository
 git clone https://github.com/youngjune-won/Hello-world.git
+
+git add won.txt
+git commit
+
+git diff
+git log
+git show
