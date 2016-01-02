@@ -7,3 +7,6 @@ git commit
 git diff
 git log
 git show
+
+git commit -a
+git commit --amend
