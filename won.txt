@@ -10,3 +10,11 @@ git show
 
 git commit -a
 git commit --amend
+
+// check out
+git push origin master:master
+
+// check in
+git remote update
+git rebase
+
