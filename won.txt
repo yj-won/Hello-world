@@ -17,4 +17,3 @@ git push origin master:master
 // check in
 git remote update
 git rebase
-
