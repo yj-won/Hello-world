@@ -17,3 +17,18 @@ git push origin master:master
 // check in
 git remote update
 git rebase
+
+//rename branch
+git branch -m young young2
+
+//del branch
+git branch -D young
+
+
+//del remote branch
+git push origin :june
+
+
+//
+git add *
+
